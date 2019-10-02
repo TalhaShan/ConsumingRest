@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ConsumingRest</string>
+    <string-array name="types">
+        <item>atm</item>
+        <item>school</item>
+        <item>hospital</item>
+        <item>bakery</item>
+        <item>food</item>
+        <item>bank</item>
+        <item>mosque</item>
+        <item>ground</item>
+    </string-array>
+</resources>
